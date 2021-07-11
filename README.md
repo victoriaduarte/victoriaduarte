@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/victoria-regina-duarte)
 [![E-mail](https://img.shields.io/badge/-E--mail-%23106ebe?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](mailto:victoriarduarte@hotmail.com)<br>
 
+*Read this in other languages: [Português :brazil:](https://github.com/victoriaduarte/victoriaduarte/blob/master/README-pt-br.md), [English :us:](https://github.com/victoriaduarte)*
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=20&color=8A29F7&lines=Welcome+to+my+profile!+🤗;I'm+Quality+Analyst+💜;Passionate+about+testing+🐞;I+love+learning+new+things+💡;Thanks+for+visiting!+🤩)](https://git.io/typing-svg)
 
 💻 Currently working at [Smarket](https://smarket.com.br/)
