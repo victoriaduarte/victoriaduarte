@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%231DA1F2?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/victoria-regina-duarte)
 [![E-mail](https://img.shields.io/badge/-E--mail-%23106ebe?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](mailto:victoriarduarte@hotmail.com)<br>
 
-Leia em outros idiomas: [Português :brazil:](https://github.com/victoriaduarte/victoriaduarte/blob/master/README-en-US.md), [English :us:](https://github.com/victoriaduarte)
+Leia em outros idiomas: [Português :brazil:](https://github.com/victoriaduarte/victoriaduarte/blob/master/README-pt-br.md), [English :us:](https://github.com/victoriaduarte)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=20&color=8A29F7&lines=Bem+vindo(a)+ao+meu+perfil!+🤗;Eu+sou+Analista+de+Qualidade+💜;Apaixonada+por+testes+de+software+🐞;Amo+aprender+coisas+novas+💡;Obrigada+pela+visita!+🤩)](https://git.io/typing-svg)
 
