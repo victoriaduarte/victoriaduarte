@@ -29,8 +29,11 @@
 
 ## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="victoriaduarte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victoriaduarte&include_all_commits=true&show_icons=true&icon_color=F8D866&theme=dracula&hide=contribs,issues&border_radius=2px" height="150x"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="victoriaduarte's Top Languages" align=left src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=victoriaduarte&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400px&border_radius=2px" height="150px"/></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="victoriaduarte's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=victoriaduarte&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400px&border_radius=2px" height="150px"/></a>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 <!-- 
 <br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="victoriaduarte's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=victoriaduarte&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="925px" /></a> -->
