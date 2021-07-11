@@ -28,7 +28,7 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-%23000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)
 
 ## Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="victoriaduarte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victoriaduarte&include_all_commits=true&show_icons=true&icon_color=F8D866&theme=dracula&hide=contribs,issues&border_radius=2px" height="150x"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="victoriaduarte's Github Stats" src="https://github-readme-stats.vercel.app/api?username=victoriaduarte&include_all_commits=true&show_icons=true&icon_color=F8D866&theme=dracula&hide=contribs,issues&border_radius=2px" height="150x" width="410px"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="victoriaduarte's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=victoriaduarte&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=400px&border_radius=2px" height="150px"/></a>
 
