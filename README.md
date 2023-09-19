@@ -23,6 +23,7 @@
 ### 🤖 Automation Testing Projects
 #### Cypress
 - [cypress-basico-v2](https://github.com/victoriaduarte/cypress-basico-v2)
+- [cypress-intermediario-v2](https://github.com/victoriaduarte/cypress-intermediario-v2)
   
 #### Robot Framework
 - [serverest-api-testing](https://github.com/victoriaduarte/serverest-api-testing)
