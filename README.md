@@ -6,12 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=20&color=8A29F7&lines=Welcome+to+my+profile!🤗;I'm+a+Software+Quality+Analyst💜;I+love+learning+new+things💡;Thanks+for+visiting!🤩)](https://git.io/typing-svg)
 
-:books: I’m currently learning:
-- **JavaScript**
-- **HTML**
-- **CSS**
-- **Cypress**
-
 ## Languages and Tools
 ![Software Testing](https://img.shields.io/badge/-Software_Testing-%23636667?style=for-the-badge)
 ![RobotFramework](https://img.shields.io/badge/-Robot_Framework-%2300c0b6?style=for-the-badge&logo=robotframework&logoColor=ffffff)
@@ -28,6 +22,7 @@
 #### Robot Framework
 - [serverest-api-testing](https://github.com/victoriaduarte/serverest-api-testing)
 - [robot-framework-basics](https://github.com/victoriaduarte/robot-framework-basics)
+- [robot-express](https://github.com/victoriaduarte/robot-express)
   
 #### Ruby
 - [RockLov](https://github.com/victoriaduarte/RockLov)
