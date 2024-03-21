@@ -9,6 +9,8 @@
 ## Languages and Tools
 ![Software Testing](https://img.shields.io/badge/-Software_Testing-%23636667?style=for-the-badge)
 ![RobotFramework](https://img.shields.io/badge/-Robot_Framework-%2300c0b6?style=for-the-badge&logo=robotframework&logoColor=ffffff)
+![Apppium](https://img.shields.io/badge/-Appium-%2365308f?style=for-the-badge&logo=appium&logoColor=ffffff)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%23fd6c35?style=for-the-badge&logo=postman&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
