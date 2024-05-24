@@ -20,6 +20,7 @@
 #### Cypress
 - [cypress-basico-v2](https://github.com/victoriaduarte/cypress-basico-v2)
 - [cypress-intermediario-v2](https://github.com/victoriaduarte/cypress-intermediario-v2)
+- [cypress-express](https://github.com/victoriaduarte/cypress-express)
   
 #### Robot Framework
 - [serverest-api-testing](https://github.com/victoriaduarte/serverest-api-testing)
