@@ -8,6 +8,7 @@
 
 ## Languages and Tools
 ![Software Testing](https://img.shields.io/badge/-Software_Testing-%23636667?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/-Cypress-%2349A382?style=for-the-badge&logo=cypress&logoColor=ffffff)
 ![RobotFramework](https://img.shields.io/badge/-Robot_Framework-%2300c0b6?style=for-the-badge&logo=robotframework&logoColor=ffffff)
 ![Apppium](https://img.shields.io/badge/-Appium-%2365308f?style=for-the-badge&logo=appium&logoColor=ffffff)
 
