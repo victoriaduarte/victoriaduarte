@@ -20,8 +20,10 @@
 #### Cypress
 - [cypress-basico-v2](https://github.com/victoriaduarte/cypress-basico-v2)
 - [cypress-intermediario-v2](https://github.com/victoriaduarte/cypress-intermediario-v2)
+- [cypress-course-alura](https://github.com/victoriaduarte/cypress-course-alura)
+- [cypress-discovery](https://github.com/victoriaduarte/cypress-discovery)
 - [cypress-express](https://github.com/victoriaduarte/cypress-express)
-  
+
 #### Robot Framework
 - [serverest-api-testing](https://github.com/victoriaduarte/serverest-api-testing)
 - [robot-framework-basics](https://github.com/victoriaduarte/robot-framework-basics)
